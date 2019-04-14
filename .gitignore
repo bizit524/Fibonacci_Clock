@@ -1,0 +1,8 @@
+*.gcode
+*.stl
+*.skb
+*.bak
+*.nc
+*.dxf
+node_modules/
+generated/
