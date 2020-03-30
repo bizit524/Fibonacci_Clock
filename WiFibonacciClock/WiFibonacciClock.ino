@@ -15,7 +15,7 @@
 #include "structures.h"           // https://github.com/ClemRz/Introduction-to-IoT#use-structures
 
 using namespace ArduinoJson;
-
+//#DEBUG
 // General
 #define MICROSEC                  1000000L
 #define MILLISEC                  1000L
